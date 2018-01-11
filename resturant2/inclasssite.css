@@ -1,0 +1,114 @@
+div{
+	background-color: red;
+
+    border-width: 9px;
+    padding: 30px;
+    text-align:center;
+
+}
+
+#picture1{
+	background-color:tan;
+	border-style: solid;
+    border-width: 9px;
+    padding: 10px;
+	margin: auto;
+  padding: 0px;
+  margin-right: 10px;
+}
+
+#picture2{
+	background-color:tan;
+	border-style: solid;
+    border-width: 9px;
+    padding: 10px;
+	margin: auto;
+  	padding: 0px;
+  	margin-right: 10px;
+}
+
+html{
+	border-style: double;
+	padding: 50px;
+	border-width: 10px;
+	border-color: red;
+}
+
+
+#menu{
+	border-style: solid;
+	background-color: red;
+
+
+}
+
+#home{
+	border-style: solid;
+	background-color: red;
+
+
+}
+
+#res{
+	border-style: solid;
+	background-color: red;
+
+}
+#aboutus{
+	background-color: red;
+	border-style: solid;
+}
+
+li {
+    float: left;
+    border-color:white;
+}
+
+li:last-child {
+    border-right: white;
+}
+
+li a {
+    display: inline;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: red;
+}
+ul{
+	list-style-type: none;
+	align-items: center;
+}
+
+.active {
+    background-color: white;
+}
+
+
+table{
+	border-style: double;
+	background-color: red;
+	padding: 10px;
+	margin: auto;
+}
+tr{
+	border-style: double;
+	background-color: yellow;
+	text-align:center;
+}
+
+h1{
+text-align: left;
+}
+
+h2{
+	text-align: center;
+}
+#copyright{
+	font-size: 1pc;
+	text-align: center;
+}
