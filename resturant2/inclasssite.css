@@ -54,10 +54,10 @@ div{
 }
 
 html{
-/* 	border-style: double; */
+	border-style: double;
 /* 	padding: 50px; */
 	border-width: 10px;
-	border-color: red;
+	border-color: greem;
 }
 
 
