@@ -55,7 +55,7 @@ div{
 
 html{
 	border-style: double;
-/* 	padding: 50px; */
+	padding: 50px;
 	border-width: 10px;
 	border-color: greem;
 }
@@ -109,7 +109,7 @@ ul{
 	list-style-type: none;
 	align-items: center;
 	border-style: hidden;
-	border-width: 100px;
+	border-width: 300px;
 }
 
 .active {
