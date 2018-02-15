@@ -1,0 +1,48 @@
+header{
+      position: fixed;
+      top: 1em;
+      right: 30%;
+      bottom: 0;
+      left: 30%;
+      margin: 0 -600px;
+      background-size: cover;
+}
+
+nav{
+/*	padding:10px;*/
+
+/*      bottom: 5%;*/
+
+
+h1{
+	padding: 200px;
+	text-align: center;
+}
+p{
+	padding: 100px;
+}
+
+  .bg-1 { 
+      background-color: #1abc9c;
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #474e5d;
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff;
+      color: #555555;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+
+  form{
+  	padding:200px;
+  }
+
+  li{
+  	display: inline;
+  }
